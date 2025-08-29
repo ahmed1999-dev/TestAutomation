@@ -1,0 +1,11 @@
+Session six
+------------
+#Skills gained :
+- Dry run code --- understand how code is going think as complier
+- debugging skills : using debugging method as step over , break points,...
+- Git source control
+
+session Question:-
+- Need to revision OOP, Interface , Abstract (reason , i did not know that we can not create object from interface , i can only declare but not create object  )
+- What's the best webdriver declaration? 8 Results are hidden WebDriver driver; RemoteWebDriver driver; ChromiumDriver driver; ChromeDriver driver;
+- explain in detail line webdriver Driver = new ChromeDriver()

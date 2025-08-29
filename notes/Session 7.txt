@@ -1,0 +1,58 @@
+Session 7
+1- Difference between Void and null
+Null means that there is already place in memory
+Void there is no place in memory
+
+2- Difference between Diver.Quit() and Driver.Close()
+
+3- Fixing of synchronization issue when i told you specific time , or specific event happen
+
+4-navigate()to.("PATH")-----this method block execution until finish  this line and Window open and load
+
+5- What is seems pattern
+
+6- Difference Between (absolute Xpath, Relative XPath)
+
+7-  page document Object model "page DOM"
+
+8- Difference between 
+#testcase 
+- testcases are independant
+- start with navigation
+- ends with assertion
+- has one check Point
+- use before/after Methods as tests are independent
+- multiple testcases per java class , one class per business module
+- one test packages
+
+"Create Read Update Delete" -- this operation not dependant on each other so not create dependency between them 
+
+#Test scenario
+- login 
+- add item to Cart
+- Checkout
+- Check that ordered successfully
+- use before/After Class
+
+- you can not create it in one method
+- the method are dependant on Each other
+- the order of execution is not important
+- each test method represents a validatble business action 
+- there are comment setup and teardown
+- One class Per Test scnario
+- test packages per business scope (sanity testing package , Regression testing packages ,...)
+
+9- when should i use (Priority - dependOnMethod) in annotation
+
+10- issue in automation
+ 1- syncrinzation --------
+ 2- Element Identification
+ 3- Test data management
+
+
+10- we use selenium to Test End To End User (E2E) scenario not operation like read , write , update , Delete 
+
+note: Do Your tasks Using user Guide ONLY... !!!!!
+
+
+
